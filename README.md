@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SomAtribute
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming
